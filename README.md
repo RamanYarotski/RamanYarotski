@@ -2,11 +2,11 @@
 <div align="center">
     <h1>Hi there! <img src="assets/hello.gif" alt="Hello Emoji" width="30px" /> 
     <br> My name is Roman 
-    <br >and I am an <img src="assets/android.gif" alt="Hello Emoji" width="30px" /> Android Engineer </h1>
+    <br >and I am an <img src="assets/android.gif" alt="Android Emoji" width="30px" /> Android Engineer </h1>
 </div>
 
 <div align="center">
-    <img src="assets/marioIsCoding.gif" alt="Mario Gif" width="500"> <!-- source: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md -->
+    <img src="assets/marioIsCoding.gif" alt="Mario Is Coding Gif" width="500"> <!-- source: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md -->
 </div>
 
 <h2 align="center">
