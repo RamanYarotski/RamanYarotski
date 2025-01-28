@@ -1,4 +1,3 @@
-## 
 <div align="center">
     <h1>Hi there! <img src="assets/hello.gif" alt="Hello Emoji" width="30px" /> 
     <br> My name is Roman 
@@ -73,5 +72,11 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvlogist@gmail.com)
 [![](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rv_android)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yarotskisoftwareengineer/)
+
+</div>
+
+<div align="center">
+    
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
