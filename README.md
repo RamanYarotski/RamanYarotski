@@ -18,8 +18,8 @@
   <br>Have cross-platform expertise with KMM and Flutter.
   <br>Contributed to modular app development for easier scalability and maintenance.
   <br>For 1 year I’ve been working as a Mobile Team Lead Engineer, where I lead a group of 3 engineers. 
-  <br>Built 2 native Android applications from scratch using a modern stack (Kotlin, KMM, Compose, Coroutines) with 99.8% crash-free user rate.
-  <br>Have expirience of full life cycle development - from defining user requirements to Analysis, Design, Development, Testing and Maintenance.
+  <br>Built 2 native Android applications from scratch using a modern stack with 99.8% crash-free user rate.
+  <br>Have expirience of full life cycle development - from defining user requirements to Testing and Maintenance.
   <br>Efficient and proactive. Made a key contribution to the app’s complete rewrite to native Android shortened the timeline by one month.
   <br>I'm multitasking and flexibile. I have experience working on three Apps on one Project. 
   <br>Hands-on experience with various Android libraries and frameworks.
